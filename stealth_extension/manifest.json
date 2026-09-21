@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Stealth DOM Reader",
+  "version": "1.0.0",
+  "description": "Stealth read-only DOM extraction bridge for AI Agent (No Debugger Banner, Active Tab Only)",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "alarms",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon/16.png",
+    "32": "icon/32.png",
+    "48": "icon/48.png",
+    "128": "icon/128.png"
+  }
+}

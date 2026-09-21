@@ -1,0 +1,674 @@
+[
+  {
+    "tag": "\"prop firm trader\"",
+    "priority": 95,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 204,
+    "last_used_at": "2026-09-08T17:32:35.934219+00:00"
+  },
+  {
+    "tag": "\"funded trader\"",
+    "priority": 93,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 3,
+    "last_used_at": "2026-09-08T17:36:09.918952+00:00"
+  },
+  {
+    "tag": "\"funded account trader\"",
+    "priority": 85,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop trader\" forex",
+    "priority": 97,
+    "category": "forex",
+    "is_dynamic": false,
+    "times_used": 23,
+    "last_used_at": "2026-09-08T17:38:16.144015+00:00"
+  },
+  {
+    "tag": "\"proprietary trader\" forex",
+    "priority": 96,
+    "category": "forex",
+    "is_dynamic": false,
+    "times_used": 2,
+    "last_used_at": "2026-09-07T20:00:55.842936+00:00"
+  },
+  {
+    "tag": "\"prop firm\" forex trader",
+    "priority": 95,
+    "category": "forex",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"funded account\" forex",
+    "priority": 80,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm\" trader MT5",
+    "priority": 85,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"funded trader\" MT5",
+    "priority": 92,
+    "category": "mt5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop trader\" MT5",
+    "priority": 80,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"FTMO\" trader",
+    "priority": 84,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 2,
+    "last_used_at": "2026-09-07T19:55:24.457804+00:00"
+  },
+  {
+    "tag": "\"FundedNext\" trader",
+    "priority": 82,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"Topstep\" trader",
+    "priority": 88,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 2,
+    "last_used_at": "2026-09-07T20:11:10.914813+00:00"
+  },
+  {
+    "tag": "\"Funding Pips\" trader",
+    "priority": 87,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"FunderPro\" trader",
+    "priority": 86,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"Blueberry Funded\" trader",
+    "priority": 85,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"Bloom Funded\" trader",
+    "priority": 84,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"FTMO\" forex",
+    "priority": 83,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"FundedNext\" forex",
+    "priority": 82,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"Funding Pips\" forex",
+    "priority": 81,
+    "category": "firm_specific",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trading journal\" forex",
+    "priority": 80,
+    "category": "journaling",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trade journal\" trader",
+    "priority": 79,
+    "category": "journaling",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trading journal\" \"MT5\"",
+    "priority": 88,
+    "category": "journaling",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trade journaling\" forex",
+    "priority": 78,
+    "category": "journaling",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trading journal\" \"prop firm\"",
+    "priority": 92,
+    "category": "journaling",
+    "is_dynamic": false,
+    "times_used": 2,
+    "last_used_at": "2026-09-07T19:49:15.264828+00:00"
+  },
+  {
+    "tag": "\"risk management\" \"prop firm\"",
+    "priority": 91,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 2,
+    "last_used_at": "2026-09-07T19:51:24.345118+00:00"
+  },
+  {
+    "tag": "\"risk management\" \"funded trader\"",
+    "priority": 87,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"risk management\" forex trader",
+    "priority": 73,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"risk management\" MT5 trader",
+    "priority": 72,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"daily drawdown\" \"prop firm\"",
+    "priority": 90,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 2,
+    "last_used_at": "2026-09-07T19:54:28.639672+00:00"
+  },
+  {
+    "tag": "\"max drawdown\" \"prop firm\"",
+    "priority": 70,
+    "category": "drawdown",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"EA\" \"prop firm\" trader",
+    "priority": 69,
+    "category": "algo_trading",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"Expert Advisor\" \"prop firm\"",
+    "priority": 68,
+    "category": "algo_trading",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"Expert Advisor\" forex trader",
+    "priority": 67,
+    "category": "algo_trading",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"automated trading\" \"prop firm\"",
+    "priority": 66,
+    "category": "algo_trading",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"algorithmic trading\" forex trader",
+    "priority": 65,
+    "category": "algo_trading",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"automated forex trading\" MT5",
+    "priority": 64,
+    "category": "algo_trading",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"EA trading\" MT5",
+    "priority": 63,
+    "category": "algo_trading",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"MQL5\" \"prop firm\"",
+    "priority": 62,
+    "category": "mql5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"forex strategy\" trader",
+    "priority": 61,
+    "category": "strategy",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trading strategy\" \"prop firm\"",
+    "priority": 60,
+    "category": "strategy",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"algorithmic strategy\" forex",
+    "priority": 59,
+    "category": "strategy",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"backtesting\" forex trader",
+    "priority": 58,
+    "category": "strategy",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"backtesting\" \"prop firm\"",
+    "priority": 57,
+    "category": "strategy",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"strategy automation\" forex",
+    "priority": 56,
+    "category": "strategy",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"automated strategy\" MT5",
+    "priority": 55,
+    "category": "strategy",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"MT5\" \"prop firm\"",
+    "priority": 54,
+    "category": "mt5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"MetaTrader 5\" \"prop firm\"",
+    "priority": 53,
+    "category": "mt5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"MT5\" \"funded trader\"",
+    "priority": 52,
+    "category": "mt5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"MetaTrader 5\" \"funded account\"",
+    "priority": 51,
+    "category": "mt5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"MT5\" forex trader",
+    "priority": 50,
+    "category": "mt5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"MQL5\" forex trader",
+    "priority": 49,
+    "category": "mql5",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm\" \"daily drawdown\"",
+    "priority": 48,
+    "category": "drawdown",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm\" \"breached\"",
+    "priority": 47,
+    "category": "drawdown",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm\" \"risk management\"",
+    "priority": 46,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm\" \"stop loss\"",
+    "priority": 45,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm\" \"trailing drawdown\"",
+    "priority": 44,
+    "category": "drawdown",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm\" \"consistency rule\"",
+    "priority": 43,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"funded account\" \"drawdown\"",
+    "priority": 42,
+    "category": "drawdown",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "prop firm trader",
+    "priority": 95,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "funded trader",
+    "priority": 95,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "trading journal forex",
+    "priority": 92,
+    "category": "trading_journal",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "prop trader MT5",
+    "priority": 90,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "risk management prop firm",
+    "priority": 90,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "funded account trader",
+    "priority": 88,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "FTMO trader",
+    "priority": 85,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "daily drawdown prop firm",
+    "priority": 85,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "trade journaling forex",
+    "priority": 82,
+    "category": "trading_journal",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "FundedNext trader",
+    "priority": 78,
+    "category": "prop_firm",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "risk management MT5 trader",
+    "priority": 76,
+    "category": "risk_management",
+    "is_dynamic": false,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "prop firm risk rules",
+    "priority": 74,
+    "category": "risk_management",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "trading discipline habits",
+    "priority": 70,
+    "category": "trading_psychology",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "copy trading strategies",
+    "priority": 68,
+    "category": "copy_trading",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "funded trader performance tracking",
+    "priority": 66,
+    "category": "analytics",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"copy trading\" \"risk management\"",
+    "priority": 75,
+    "category": "copy_trading",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trading discipline\" \"prop firm\"",
+    "priority": 72,
+    "category": "trading_psychology",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"prop firm challenge\" tips",
+    "priority": 70,
+    "category": "prop_firm",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"trading performance\" analytics",
+    "priority": 68,
+    "category": "analytics",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "\"funded trader\" mindset",
+    "priority": 65,
+    "category": "trading_psychology",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "prop firm drawdown tracker",
+    "priority": 89,
+    "category": "risk_management",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "MT5 trade analytics dashboard",
+    "priority": 86,
+    "category": "analytics",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "trading discipline accountability tool",
+    "priority": 83,
+    "category": "journaling",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "prop firm challenge passing strategy",
+    "priority": 76,
+    "category": "prop_firm",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  },
+  {
+    "tag": "copy trading risk controls",
+    "priority": 72,
+    "category": "copy_trading",
+    "is_dynamic": true,
+    "times_used": 0,
+    "last_used_at": null
+  }
+]

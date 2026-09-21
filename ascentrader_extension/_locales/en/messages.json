@@ -1,0 +1,124 @@
+{
+   "description": {
+      "description": "Extension description shown in Chrome Web Store and extension management page.",
+      "message": "Kimi WebBridge — browser extension for AI agents. AI can open pages, click, fill forms, extract info, and automate web tasks."
+   },
+   "devAdvancedSettings": {
+      "message": "Advanced Settings"
+   },
+   "devClickHint": {
+      "message": "$N$ more clicks to enable advanced options",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "devExit": {
+      "message": "Exit Developer Mode"
+   },
+   "devReset": {
+      "message": "Reset to default"
+   },
+   "devSave": {
+      "message": "Save"
+   },
+   "devSaved": {
+      "message": "Saved — see connection status above"
+   },
+   "devServerUrlLabel": {
+      "message": "Daemon WebSocket URL"
+   },
+   "devTest": {
+      "message": "Test"
+   },
+   "devTestFailed": {
+      "message": "Connection failed — check address, network, and that the daemon is running"
+   },
+   "devTestOk": {
+      "message": "Connection OK"
+   },
+   "devTesting": {
+      "message": "Testing…"
+   },
+   "devTrustCancel": {
+      "message": "Cancel"
+   },
+   "devTrustConfirm": {
+      "message": "I trust this — connect"
+   },
+   "devTrustWarningBody": {
+      "message": "It can click, type, read page contents, and operate tabs. Only continue if you fully trust this server."
+   },
+   "devTrustWarningInsecure": {
+      "message": "⚠ Connection is unencrypted (ws://) — anyone on the same network can monitor or tamper with traffic."
+   },
+   "devTrustWarningTitle": {
+      "message": "This server will gain control of your browser"
+   },
+   "devUrlEmpty": {
+      "message": "URL cannot be empty"
+   },
+   "devUrlInvalid": {
+      "message": "Invalid URL format"
+   },
+   "devUrlWrongProtocol": {
+      "message": "URL must start with ws:// or wss://"
+   },
+   "docsLinkUrl": {
+      "description": "Locale-specific docs URL opened by the popup CTA / link.",
+      "message": "https://www.kimi.com/features/webbridge"
+   },
+   "extensionVersionLabel": {
+      "description": "Footer header shown above per-agent skill versions when they diverge.",
+      "message": "Extension $EXT$",
+      "placeholders": {
+         "ext": {
+            "content": "$1"
+         }
+      }
+   },
+   "notReadyMessage": {
+      "description": "Popup main message in disconnected state.",
+      "message": "Browser assistant is not ready"
+   },
+   "readyMessage": {
+      "description": "Popup main message in connected state.",
+      "message": "Browser assistant is ready"
+   },
+   "setupGuideButton": {
+      "description": "Popup CTA button label in disconnected state — links to docs site.",
+      "message": "View setup guide"
+   },
+   "skillMismatchBody": {
+      "message": "Copy and send to your AI agent to update."
+   },
+   "skillMismatchCopied": {
+      "message": "Copied"
+   },
+   "skillMismatchCopy": {
+      "message": "Copy command"
+   },
+   "skillMismatchTitle": {
+      "message": "New version available"
+   },
+   "updateCopyText": {
+      "message": "Please update Kimi WebBridge for me using this command: kimi-webbridge upgrade"
+   },
+   "userGuideLink": {
+      "description": "Popup link label in connected state — links to docs site.",
+      "message": "User guide"
+   },
+   "versionFooter": {
+      "description": "Always-on version line in the popup footer.",
+      "message": "Extension $EXT$ · Skill $SKILL$",
+      "placeholders": {
+         "ext": {
+            "content": "$1"
+         },
+         "skill": {
+            "content": "$2"
+         }
+      }
+   }
+}
