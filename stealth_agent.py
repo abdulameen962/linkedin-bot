@@ -42,7 +42,7 @@ def _create_resilient_retryer(max_attempts: int = 100, wait_seconds: float = 3.0
     )
 
 stealth_model = OpenAIServerModel(
-    model_id="inclusionai/ling-3.0-flash-vl:free",
+    model_id="z-ai/glm-5.3-flash",
     api_base="https://openrouter.ai/api/v1",
     api_key=OPENROUTER_API_KEY,
     temperature=0.1,

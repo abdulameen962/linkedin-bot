@@ -55,7 +55,7 @@ def _create_resilient_retryer(max_attempts: int = 5, wait_seconds: float = 3.0):
     )
 
 minimax_m3 = OpenAIServerModel( 
-    model_id="inclusionai/ling-3.0-flash-vl:free",
+    model_id="z-ai/glm-5.3-flash",
     api_base="https://openrouter.ai/api/v1",
     api_key=OPENROUTER_API_KEY,
     temperature=0.1,
@@ -67,7 +67,7 @@ minimax_m3 = OpenAIServerModel(
 minimax_m3.retryer = _create_resilient_retryer()
 
 glm_53 = OpenAIServerModel( 
-    model_id="inclusionai/ling-3.0-flash-vl:free",
+    model_id="z-ai/glm-5.3-flash",
     api_base="https://openrouter.ai/api/v1",
     api_key=OPENROUTER_API_KEY,
     temperature=0.1,
